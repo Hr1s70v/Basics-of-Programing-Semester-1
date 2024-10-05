@@ -22,6 +22,8 @@ bool hasDuplicates(int a) {
 int main()
 {
     SetConsoleOutputCP(1251);
+    setlocale(LC_ALL, "");
+
     
     int a;
 

@@ -7,6 +7,8 @@ using namespace std;
 int main()
 {
     SetConsoleOutputCP(1251);
+    setlocale(LC_ALL, "");
+
     double m, n, p, q, r, s, t, x, v1;
 
     cout << "Въведете стойност за m: ";

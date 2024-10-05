@@ -20,6 +20,8 @@ double heron(double a, double b, double c) {
 int main()
 {
     SetConsoleOutputCP(1251);
+    setlocale(LC_ALL, "");
+
 
     // Задаваме кординати
     Point A = { -2, 2.5 };

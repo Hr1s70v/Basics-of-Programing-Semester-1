@@ -8,6 +8,8 @@ using namespace std;
 int main()
 {
     SetConsoleOutputCP(1251);
+    setlocale(LC_ALL, "");
+
 
     const double v = 400.0;
     const double s = 0.8;

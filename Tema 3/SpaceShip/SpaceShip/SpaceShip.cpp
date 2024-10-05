@@ -7,6 +7,8 @@ using namespace std;
 int main()
 {
     SetConsoleOutputCP(1251);
+    setlocale(LC_ALL, "");
+
 
     const double R = 6340.0; 
     const double h = 280.0; 
