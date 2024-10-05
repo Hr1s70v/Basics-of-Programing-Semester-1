@@ -11,12 +11,12 @@ int main()
 
     double b;
 
-    cout << "Enter a value for b : ";
+    cout << "Enter a value for b: ";
     cin >> b;
 
     if (b > 0)
     {
-        int firstnum = static_cast <int>(b);
+        int firstnum = static_cast<int>(floor(b));
         cout << firstnum << endl;
     }
     else
