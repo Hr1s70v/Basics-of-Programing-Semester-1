@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 5\\EvenNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F3263E-457A-4EED-97E5-66D98D949B4C}|EvenNumbers\\EvenNumbers.vcxproj|D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 5\\EvenNumbers\\EvenNumbers\\EvenNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3F3263E-457A-4EED-97E5-66D98D949B4C}|EvenNumbers\\EvenNumbers.vcxproj|solutionrelative:EvenNumbers\\EvenNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenNumbers.cpp",
+              "DocumentMoniker": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 5\\EvenNumbers\\EvenNumbers\\EvenNumbers.cpp",
+              "RelativeDocumentMoniker": "EvenNumbers\\EvenNumbers.cpp",
+              "ToolTip": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 5\\EvenNumbers\\EvenNumbers\\EvenNumbers.cpp",
+              "RelativeToolTip": "EvenNumbers\\EvenNumbers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T18:32:05.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

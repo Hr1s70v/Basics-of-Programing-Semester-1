@@ -1,0 +1,4 @@
+﻿  SumAndMultiplacationOfEvens.cpp
+D:\Projects\University\CPP\Semester 1\Basics of programming\Tema 5\SumAndMultiplacationOfEvens\SumAndMultiplacationOfEvens\SumAndMultiplacationOfEvens.cpp(20,11): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\University\CPP\Semester 1\Basics of programming\Tema 5\SumAndMultiplacationOfEvens\SumAndMultiplacationOfEvens\SumAndMultiplacationOfEvens.cpp(21,15): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
+  SumAndMultiplacationOfEvens.vcxproj -> D:\Projects\University\CPP\Semester 1\Basics of programming\Tema 5\SumAndMultiplacationOfEvens\SumAndMultiplacationOfEvens\x64\Debug\SumAndMultiplacationOfEvens.exe
