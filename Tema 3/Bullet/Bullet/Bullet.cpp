@@ -18,7 +18,7 @@ int main()
     double a = (v * v) / (2 * s);
     double F = m * a;
 
-    cout << "Силата, действаща върху куршума, е: " << F << " N" << endl;
+    cout << "The force acting on the bullet is: " << F << " N" << endl;
     
     return 0;
 }

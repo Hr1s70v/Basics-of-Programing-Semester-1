@@ -11,16 +11,16 @@ int main()
 
     double b;
 
-    cout << "Въведете стойност за b : ";
+    cout << "Enter a value for b : ";
     cin >> b;
 
     if (b > 0)
     {
-        int firstnum = static_cast <int>(b); // Запазваме само първата цялата част от числото
+        int firstnum = static_cast <int>(b);
         cout << firstnum << endl;
     }
     else
-        cout << "Отрицателно число";
+        cout << "Number cannot be negative";
 
     return 0;
 }

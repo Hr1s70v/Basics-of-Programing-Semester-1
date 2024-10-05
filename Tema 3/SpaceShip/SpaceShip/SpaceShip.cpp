@@ -15,7 +15,7 @@ int main()
     const double PI = 3.141592653589793;
 
     double avgs;
-    cout << "Въведете средната скорост на кораба (km/h):";
+    cout << "Enter the ship's average speed (km/h):";
     cin >> avgs;
 
     double r = R + h;
@@ -26,5 +26,5 @@ int main()
     
     time = ceil(time * 100.0) / 100.0;
 
-    cout << "Време за една обиколка:" << time << " часа." << endl;
+    cout << "Time for a tour:" << time << " часа." << endl;
 }

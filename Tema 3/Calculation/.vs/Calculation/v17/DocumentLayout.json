@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\University\\CPP\\Semester 1\\Calculation\\",
+  "WorkspaceRootPath": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 3\\Calculation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7998258E-130B-4804-92AE-EDEB8C2E303D}|Calculation\\Calculation.vcxproj|D:\\Projects\\University\\CPP\\Semester 1\\Calculation\\Calculation\\Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7998258E-130B-4804-92AE-EDEB8C2E303D}|Calculation\\Calculation.vcxproj|D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 3\\Calculation\\Calculation\\Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7998258E-130B-4804-92AE-EDEB8C2E303D}|Calculation\\Calculation.vcxproj|solutionrelative:Calculation\\Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculation.cpp",
-              "DocumentMoniker": "D:\\Projects\\University\\CPP\\Semester 1\\Calculation\\Calculation\\Calculation.cpp",
+              "DocumentMoniker": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 3\\Calculation\\Calculation\\Calculation.cpp",
               "RelativeDocumentMoniker": "Calculation\\Calculation.cpp",
-              "ToolTip": "D:\\Projects\\University\\CPP\\Semester 1\\Calculation\\Calculation\\Calculation.cpp",
+              "ToolTip": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 3\\Calculation\\Calculation\\Calculation.cpp",
               "RelativeToolTip": "Calculation\\Calculation.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-05T10:02:33.47Z",
               "EditorCaption": ""

@@ -11,30 +11,30 @@ int main()
 
     double m, n, p, q, r, s, t, x, v1;
 
-    cout << "Въведете стойност за m: ";
+    cout << "Enter a value for m: ";
     cin >> m;
-    cout << "Въведете стойност за n: ";
+    cout << "Enter a value for n: ";
     cin >> n;
-    cout << "Въведете стойност за p: ";
+    cout << "Enter a value for p: ";
     cin >> p;
-    cout << "Въведете стойност за q: ";
+    cout << "Enter a value for q: ";
     cin >> q;
-    cout << "Въведете стойност за r: ";
+    cout << "Enter a value for r: ";
     cin >> r;
-    cout << "Въведете стойност за s: ";
+    cout << "Enter a value for s: ";
     cin >> s;
-    cout << "Въведете стойност за t: ";
+    cout << "Enter a value for t: ";
     cin >> t;
-    cout << "Въведете стойност за x: ";
+    cout << "Enter a value for x: ";
     cin >> x;
 
-    // Формула А
+    // Formula A
     v1 = m + (n / (p + (q / (r + (s / t)))));
-    cout << "Стойност на v1 по формула а): " << v1 << endl;
+    cout << "Value of v1 by formula a): " << v1 << endl;
 
-    // Формула Б)
+    // Formula B)
     v1 = (sin(sin(sin(x))) + cos(cos(cos(s * x)))) / (abs(log(x)) + abs(cos(x)) + exp(x));
-    cout << "Стойност на v1 по формула б): " << v1 << endl;
+    cout << "Value of v1 by formula b): " << v1 << endl;
 
     return 0;
 }

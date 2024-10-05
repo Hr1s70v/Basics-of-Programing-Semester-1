@@ -30,13 +30,13 @@ int main()
     if (fabs(a * a + b * b - c * c) < 1e-9 ||
         fabs(b * b + c * c - a * a) < 1e-9 || 
         fabs(a * a + c * c - b * b) < 1e-9) {
-        cout << "Триъгълникът е правоъгълен." << endl;
+        cout << "The triangle is right-angled." << endl;
     }
     else if (a * a + b * b > c * c && b * b + c * c > a * a && a * a + c * c > b * b) {
-        cout << "Триъгълникът е остроъгълен." << endl;
+        cout << "The triangle is acute-angled." << endl;
     }
     else {
-        cout << "Триъгълникът е тъпоъгълен." << endl;
+        cout << "The triangle is obtuse." << endl;
     }
 
     return 0;

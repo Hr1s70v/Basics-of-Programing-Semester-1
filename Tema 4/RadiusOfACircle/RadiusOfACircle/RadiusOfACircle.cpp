@@ -5,11 +5,11 @@
 using namespace std;
 
 struct Point {
-    double x, y; //Структура на точките
+    double x, y; //Point structure
 };
 
 double distance(Point A, Point B) {
-    return sqrt(pow(B.x - A.x, 2) + pow(B.y - A.y, 2)); //Намираме разстоянието между две точки
+    return sqrt(pow(B.x - A.x, 2) + pow(B.y - A.y, 2)); //Finds the distance between 2 Points
 }
 
 double heron(double a, double b, double c) {
@@ -23,23 +23,23 @@ int main()
     setlocale(LC_ALL, "");
 
 
-    // Задаваме кординати
+    // Sets coordinates for the points
     Point A = { -2, 2.5 };
     Point B = { 5, 2.5 };
     Point C = { 1, -1.5 };
-    // Изчисляваме страните
+    // Calculates the sides
     double a = distance(B, C);
     double b = distance(A, C);
     double c = distance(A, B);
 
-    double S = heron(a, b, c); // Лице на тригълника
-    double p = (a + b + c) / 2; // Полупериметър
+    double S = heron(a, b, c); // Triangle Area
+    double p = (a + b + c) / 2; // Half perimeter
 
-    double R = (a * b * c) / (4 * S); // Радиус на описаната окръжност
-    double r = S / p; // Радиус на вписаната окръжност
+    double R = (a * b * c) / (4 * S); // Radius of the circumscribed circle
+    double r = S / p; // Radius of the inscribed circle
 
-    cout << "Радиус на описаната окръжност:" << R << endl;
-    cout << "Радиус на вписаната окръжност:" << r << endl;
+    cout << "Radius of the circumscribed circle:" << R << endl;
+    cout << "Radius of the inscribed circle:" << r << endl;
 
     return 0;
 

@@ -12,9 +12,9 @@ bool hasDuplicates(int a) {
     while (a > 0) {
         int currentDigit = a % 10;
         if (digits.find(currentDigit) != digits.end())
-            return true; // Ако числото се намира в {unordered_set} значи има дубликат
+            return true; // If the number is in {unordered_set} then it's a duplicate
         digits.insert(currentDigit);
-        a /= 10; // Премахва последното число
+        a /= 10; // Removes the last number
     }
     return false;
 }
@@ -27,7 +27,7 @@ int main()
     
     int a;
 
-    cout << "Въведете четирицифрено число:";
+    cout << "Enter a four-digit number:";
     cin >> a;
 
     if (hasDuplicates(a))
