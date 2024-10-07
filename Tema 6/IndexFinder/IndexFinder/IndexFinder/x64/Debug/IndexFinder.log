@@ -1,0 +1,3 @@
+﻿  IndexFinder.cpp
+D:\Projects\University\CPP\Semester 1\Basics of programming\Tema 6\IndexFinder\IndexFinder\IndexFinder.cpp(29,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  IndexFinder.vcxproj -> D:\Projects\University\CPP\Semester 1\Basics of programming\Tema 6\IndexFinder\IndexFinder\x64\Debug\IndexFinder.exe

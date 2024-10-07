@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\avgGrade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBFC847-7FE3-475D-9669-222827825C6C}|avgGrade\\avgGrade.vcxproj|D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\avgGrade\\avgGrade\\avgGrade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FBFC847-7FE3-475D-9669-222827825C6C}|avgGrade\\avgGrade.vcxproj|solutionrelative:avgGrade\\avgGrade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "avgGrade.cpp",
+              "DocumentMoniker": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\avgGrade\\avgGrade\\avgGrade.cpp",
+              "RelativeDocumentMoniker": "avgGrade\\avgGrade.cpp",
+              "ToolTip": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\avgGrade\\avgGrade\\avgGrade.cpp",
+              "RelativeToolTip": "avgGrade\\avgGrade.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T13:41:02.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

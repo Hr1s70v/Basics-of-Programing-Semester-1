@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F032F0B-7984-45BE-9A0F-D319D0B37FC3}|Matrix\\Matrix.vcxproj|D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\Matrix\\Matrix\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F032F0B-7984-45BE-9A0F-D319D0B37FC3}|Matrix\\Matrix.vcxproj|solutionrelative:Matrix\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\Matrix\\Matrix\\Matrix.cpp",
+              "RelativeDocumentMoniker": "Matrix\\Matrix.cpp",
+              "ToolTip": "D:\\Projects\\University\\CPP\\Semester 1\\Basics of programming\\Tema 6\\Matrix\\Matrix\\Matrix.cpp",
+              "RelativeToolTip": "Matrix\\Matrix.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T16:02:42.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
